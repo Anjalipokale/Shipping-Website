@@ -1,2 +1,2 @@
 # Shipping-Website
-This Single page Website Using HTML,Bootstrap,CSS
+This single page website using HTML,Bootstrap,CSS
